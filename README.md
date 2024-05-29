@@ -1,7 +1,7 @@
 # Linktree da Nail Designer 
 
 ## Link do Projeto
-[Linktree da Meriellen Arnoldo]([URL_do_Projeto](https://www.meriellennaildesigner.online))
+[Linktree da Meriellen Arnoldo](https://www.meriellennaildesigner.online)
 
 ## Sobre o Projeto
 Este projeto é uma Linktree personalizada desenvolvida para a nail designer Meriellen Arnoldo. A Linktree é uma ferramenta essencial para profissionais que precisam organizar e facilitar o acesso a múltiplos serviços e informações em um único local.
@@ -21,4 +21,4 @@ A Linktree desenvolvida para Meriellen Arnoldo oferece uma interface simples e e
 - **Engajamento**: A inclusão de uma seção para inspirações com trabalhos anteriores ajuda a atrair novos clientes e manter os atuais engajados.
 
 ## Como Visualizar
-Você pode visualizar o projeto ao vivo através do [link]([URL_para_Visualizar](https://www.meriellennaildesigner.online)).
+Você pode visualizar o projeto ao vivo através do [link](https://www.meriellennaildesigner.online).
